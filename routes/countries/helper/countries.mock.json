@@ -1,631 +1,631 @@
 [
-    {
-        "name": {
-            "common": "Marshall Islands",
-            "official": "Republic of the Marshall Islands",
-            "nativeName": {
-                "eng": {
-                    "official": "Republic of the Marshall Islands",
-                    "common": "Marshall Islands"
-                },
-                "mah": {
-                    "official": "Republic of the Marshall Islands",
-                    "common": "M̧ajeļ"
-                }
-            }
-        },
-        "tld": [
-            ".mh"
-        ],
-        "cca2": "MH",
-        "ccn3": "584",
-        "cca3": "MHL",
-        "cioc": "MHL",
-        "independent": true,
-        "status": "officially-assigned",
-        "unMember": true,
-        "currencies": {
-            "USD": {
-                "name": "United States dollar",
-                "symbol": "$"
-            }
-        },
-        "idd": {
-            "root": "+6",
-            "suffixes": [
-                "92"
-            ]
-        },
-        "capital": [
-            "Majuro"
-        ],
-        "altSpellings": [
-            "MH",
-            "Republic of the Marshall Islands",
-            "Aolepān Aorōkin M̧ajeļ"
-        ],
-        "region": "Oceania",
-        "subregion": "Micronesia",
-        "languages": {
-            "eng": "English",
-            "mah": "Marshallese"
-        },
-        "translations": {
-            "ara": {
-                "official": "جمهورية جزر مارشال",
-                "common": "جزر مارشال"
-            },
-            "bre": {
-                "official": "Republik Inizi Marshall",
-                "common": "Inizi Marshall"
-            },
-            "ces": {
-                "official": "Republika Marshallovy ostrovy",
-                "common": "Marshallovy ostrovy"
-            },
-            "cym": {
-                "official": "Republic of the Marshall Islands",
-                "common": "Marshall Islands"
-            },
-            "deu": {
-                "official": "Republik Marshallinseln",
-                "common": "Marshallinseln"
-            },
-            "est": {
-                "official": "Marshalli Saarte Vabariik",
-                "common": "Marshalli Saared"
-            },
-            "fin": {
-                "official": "Marshallinsaarten tasavalta",
-                "common": "Marshallinsaaret"
-            },
-            "fra": {
-                "official": "République des Îles Marshall",
-                "common": "Îles Marshall"
-            },
-            "hrv": {
-                "official": "Republika Maršalovi Otoci",
-                "common": "Maršalovi Otoci"
-            },
-            "hun": {
-                "official": "Marshall-szigetek",
-                "common": "Marshall-szigetek"
-            },
-            "ita": {
-                "official": "Repubblica delle Isole Marshall",
-                "common": "Isole Marshall"
-            },
-            "jpn": {
-                "official": "マーシャル諸島共和国",
-                "common": "マーシャル諸島"
-            },
-            "kor": {
-                "official": "마셜 제도 공화국",
-                "common": "마셜 제도"
-            },
-            "nld": {
-                "official": "Republiek van de Marshall-eilanden",
-                "common": "Marshalleilanden"
-            },
-            "per": {
-                "official": "جمهوری جزایر مارشال",
-                "common": "جزایر مارشال"
-            },
-            "pol": {
-                "official": "Republika Wysp Marshalla",
-                "common": "Wyspy Marshalla"
-            },
-            "por": {
-                "official": "República das Ilhas Marshall",
-                "common": "Ilhas Marshall"
-            },
-            "rus": {
-                "official": "Республика Маршалловы острова",
-                "common": "Маршалловы Острова"
-            },
-            "slk": {
-                "official": "Republika Marshallových ostrovov",
-                "common": "Marshallove ostrovy"
-            },
-            "spa": {
-                "official": "República de las Islas Marshall",
-                "common": "Islas Marshall"
-            },
-            "srp": {
-                "official": "Република Маршалска Острва",
-                "common": "Маршалска Острва"
-            },
-            "swe": {
-                "official": "Republiken Marshallöarna",
-                "common": "Marshallöarna"
-            },
-            "tur": {
-                "official": "Marshall Adaları Cumhuriyeti",
-                "common": "Marshall Adaları"
-            },
-            "urd": {
-                "official": "جمہوریہ جزائر مارشل",
-                "common": "جزائر مارشل"
-            },
-            "zho": {
-                "official": "马绍尔群岛共和国",
-                "common": "马绍尔群岛"
-            }
-        },
-        "latlng": [
-            9,
-            168
-        ],
-        "landlocked": false,
-        "area": 181,
-        "demonyms": {
-            "eng": {
-                "f": "Marshallese",
-                "m": "Marshallese"
-            },
-            "fra": {
-                "f": "Marshallaise",
-                "m": "Marshallais"
-            }
-        },
-        "flag": "🇲🇭",
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/A4xLi1XvcX88gi3W8",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/571771"
-        },
-        "population": 59194,
-        "car": {
-            "signs": [
-                "MH"
-            ],
-            "side": "right"
-        },
-        "timezones": [
-            "UTC+12:00"
-        ],
-        "continents": [
-            "Oceania"
-        ],
-        "flags": {
-            "png": "https://flagcdn.com/w320/mh.png",
-            "svg": "https://flagcdn.com/mh.svg",
-            "alt": "The flag of Marshall Islands has a blue field with two broadening adjacent diagonal bands of orange and white that extend from the lower hoist-side corner to the upper fly-side corner of the field. A large white star with twenty-four rays — four large rays at the cardinal points and twenty smaller rays — is situated in the upper hoist-side corner above the diagonal bands."
-        },
-        "coatOfArms": {
-            "png": "https://mainfacts.com/media/images/coats_of_arms/mh.png",
-            "svg": "https://mainfacts.com/media/images/coats_of_arms/mh.svg"
-        },
-        "startOfWeek": "monday",
-        "capitalInfo": {
-            "latlng": [
-                7.1,
-                171.38
-            ]
-        }
-    },
-    {
-        "name": {
-            "common": "Bolivia",
-            "official": "Plurinational State of Bolivia",
-            "nativeName": {
-                "aym": {
-                    "official": "Wuliwya Suyu",
-                    "common": "Wuliwya"
-                },
-                "grn": {
-                    "official": "Tetã Volívia",
-                    "common": "Volívia"
-                },
-                "que": {
-                    "official": "Buliwya Mamallaqta",
-                    "common": "Buliwya"
-                },
-                "spa": {
-                    "official": "Estado Plurinacional de Bolivia",
-                    "common": "Bolivia"
-                }
-            }
-        },
-        "tld": [
-            ".bo"
-        ],
-        "cca2": "BO",
-        "ccn3": "068",
-        "cca3": "BOL",
-        "cioc": "BOL",
-        "independent": true,
-        "status": "officially-assigned",
-        "unMember": true,
-        "currencies": {
-            "BOB": {
-                "name": "Bolivian boliviano",
-                "symbol": "Bs."
-            }
-        },
-        "idd": {
-            "root": "+5",
-            "suffixes": [
-                "91"
-            ]
-        },
-        "capital": [
-            "Sucre"
-        ],
-        "altSpellings": [
-            "BO",
-            "Buliwya",
-            "Wuliwya",
-            "Bolivia, Plurinational State of",
-            "Plurinational State of Bolivia",
-            "Estado Plurinacional de Bolivia",
-            "Buliwya Mamallaqta",
-            "Wuliwya Suyu",
-            "Tetã Volívia"
-        ],
-        "region": "Americas",
-        "subregion": "South America",
-        "languages": {
-            "aym": "Aymara",
-            "grn": "Guaraní",
-            "que": "Quechua",
-            "spa": "Spanish"
-        },
-        "translations": {
-            "ara": {
-                "official": "دولة بوليفيا المتعددة القوميات",
-                "common": "بوليفيا"
-            },
-            "bre": {
-                "official": "Stad Liesvroadel Bolivia",
-                "common": "Bolivia"
-            },
-            "ces": {
-                "official": "Mnohonárodnostní stát Bolívie",
-                "common": "Bolívie"
-            },
-            "cym": {
-                "official": "Gweriniaeth Bolifia",
-                "common": "Bolifia"
-            },
-            "deu": {
-                "official": "Plurinationaler Staat Bolivien",
-                "common": "Bolivien"
-            },
-            "est": {
-                "official": "Boliivia Paljurahvuseline Riik",
-                "common": "Boliivia"
-            },
-            "fin": {
-                "official": "Bolivian monikansainen valtio",
-                "common": "Bolivia"
-            },
-            "fra": {
-                "official": "État plurinational de Bolivie",
-                "common": "Bolivie"
-            },
-            "hrv": {
-                "official": "Plurinational State of Bolivia",
-                "common": "Bolivija"
-            },
-            "hun": {
-                "official": "Bolíviai Többnemzetiségű Állam",
-                "common": "Bolívia"
-            },
-            "ita": {
-                "official": "Stato Plurinazionale della Bolivia",
-                "common": "Bolivia"
-            },
-            "jpn": {
-                "official": "ボリビアの多民族国",
-                "common": "ボリビア多民族国"
-            },
-            "kor": {
-                "official": "볼리비아 다민족국",
-                "common": "볼리비아"
-            },
-            "nld": {
-                "official": "Plurinationale Staat van Bolivia",
-                "common": "Bolivia"
-            },
-            "per": {
-                "official": "جمهوری بولیوی",
-                "common": "بولیوی"
-            },
-            "pol": {
-                "official": "Wielonarodowe Państwo Boliwia",
-                "common": "Boliwia"
-            },
-            "por": {
-                "official": "Estado Plurinacional da Bolívia",
-                "common": "Bolívia"
-            },
-            "rus": {
-                "official": "Многонациональное Государство Боливия",
-                "common": "Боливия"
-            },
-            "slk": {
-                "official": "Bolívijská republika",
-                "common": "Bolívia"
-            },
-            "spa": {
-                "official": "Estado Plurinacional de Bolivia",
-                "common": "Bolivia"
-            },
-            "srp": {
-                "official": "Вишенационална Држава Боливија",
-                "common": "Боливија"
-            },
-            "swe": {
-                "official": "Mångnationella staten Bolivia",
-                "common": "Bolivia"
-            },
-            "tur": {
-                "official": "Bolivya Çokuluslu Devleti",
-                "common": "Bolivya"
-            },
-            "urd": {
-                "official": "جمہوریہ بولیویا",
-                "common": "بولیویا"
-            },
-            "zho": {
-                "official": "多民族玻利维亚国",
-                "common": "玻利维亚"
-            }
-        },
-        "latlng": [
-            -17,
-            -65
-        ],
-        "landlocked": true,
-        "borders": [
-            "ARG",
-            "BRA",
-            "CHL",
-            "PRY",
-            "PER"
-        ],
-        "area": 1098581,
-        "demonyms": {
-            "eng": {
-                "f": "Bolivian",
-                "m": "Bolivian"
-            },
-            "fra": {
-                "f": "Bolivienne",
-                "m": "Bolivien"
-            }
-        },
-        "flag": "🇧🇴",
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/9DfnyfbxNM2g5U9b9",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/252645"
-        },
-        "population": 11673029,
-        "gini": {
-            "2019": 41.6
-        },
-        "fifa": "BOL",
-        "car": {
-            "signs": [
-                "BOL"
-            ],
-            "side": "right"
-        },
-        "timezones": [
-            "UTC-04:00"
-        ],
-        "continents": [
-            "South America"
-        ],
-        "flags": {
-            "png": "https://flagcdn.com/w320/bo.png",
-            "svg": "https://flagcdn.com/bo.svg",
-            "alt": "The flag of Bolivia is composed of three equal horizontal bands of red, yellow and green, with the national coat of arms centered in the yellow band."
-        },
-        "coatOfArms": {
-            "png": "https://mainfacts.com/media/images/coats_of_arms/bo.png",
-            "svg": "https://mainfacts.com/media/images/coats_of_arms/bo.svg"
-        },
-        "startOfWeek": "monday",
-        "capitalInfo": {
-            "latlng": [
-                -19.02,
-                -65.26
-            ]
-        }
-    },
-    {
-        "name": {
-            "common": "Wallis and Futuna",
-            "official": "Territory of the Wallis and Futuna Islands",
-            "nativeName": {
-                "fra": {
-                    "official": "Territoire des îles Wallis et Futuna",
-                    "common": "Wallis et Futuna"
-                }
-            }
-        },
-        "tld": [
-            ".wf"
-        ],
-        "cca2": "WF",
-        "ccn3": "876",
-        "cca3": "WLF",
-        "independent": false,
-        "status": "officially-assigned",
-        "unMember": false,
-        "currencies": {
-            "XPF": {
-                "name": "CFP franc",
-                "symbol": "₣"
-            }
-        },
-        "idd": {
-            "root": "+6",
-            "suffixes": [
-                "81"
-            ]
-        },
-        "capital": [
-            "Mata-Utu"
-        ],
-        "altSpellings": [
-            "WF",
-            "Territory of the Wallis and Futuna Islands",
-            "Territoire des îles Wallis et Futuna"
-        ],
-        "region": "Oceania",
-        "subregion": "Polynesia",
-        "languages": {
-            "fra": "French"
-        },
-        "translations": {
-            "ara": {
-                "official": "إقليم جزر واليس وفوتونا",
-                "common": "واليس وفوتونا"
-            },
-            "bre": {
-                "official": "Tiriad Inizi Wallis ha Futuna",
-                "common": "Wallis ha Futuna"
-            },
-            "ces": {
-                "official": "Teritorium ostrovů Wallis a Futuna",
-                "common": "Wallis a Futuna"
-            },
-            "cym": {
-                "official": "Territory of the Wallis and Futuna Islands",
-                "common": "Wallis and Futuna"
-            },
-            "deu": {
-                "official": "Gebiet der Wallis und Futuna",
-                "common": "Wallis und Futuna"
-            },
-            "est": {
-                "official": "Wallise ja Futuna ala",
-                "common": "Wallis ja Futuna"
-            },
-            "fin": {
-                "official": "Wallisin ja Futunan yhteisö",
-                "common": "Wallis ja Futuna"
-            },
-            "fra": {
-                "official": "Territoire des îles Wallis et Futuna",
-                "common": "Wallis-et-Futuna"
-            },
-            "hrv": {
-                "official": "Teritoriju Wallis i Futuna",
-                "common": "Wallis i Fortuna"
-            },
-            "hun": {
-                "official": "Wallis és Futuna",
-                "common": "Wallis és Futuna"
-            },
-            "ita": {
-                "official": "Territorio delle Isole Wallis e Futuna",
-                "common": "Wallis e Futuna"
-            },
-            "jpn": {
-                "official": "ウォリス·フツナ諸島の領土",
-                "common": "ウォリス・フツナ"
-            },
-            "kor": {
-                "official": "왈리스 퓌튀나",
-                "common": "왈리스 퓌튀나"
-            },
-            "nld": {
-                "official": "Grondgebied van de Wallis en Futuna",
-                "common": "Wallis en Futuna"
-            },
-            "per": {
-                "official": "جزایر والیس و فوتونا",
-                "common": "والیس و فوتونا"
-            },
-            "pol": {
-                "official": "Terytorium Wysp Wallis i Futuna",
-                "common": "Wallis i Futuna"
-            },
-            "por": {
-                "official": "Território das Ilhas Wallis e Futuna",
-                "common": "Wallis e Futuna"
-            },
-            "rus": {
-                "official": "Территория Уоллис и Футуна острова",
-                "common": "Уоллис и Футуна"
-            },
-            "slk": {
-                "official": "Teritórium ostrovov Wallis a Futuna",
-                "common": "Wallis a Futuna"
-            },
-            "spa": {
-                "official": "Territorio de las Islas Wallis y Futuna",
-                "common": "Wallis y Futuna"
-            },
-            "srp": {
-                "official": "Територија државе Валис и Футуна",
-                "common": "Валис и Футуна"
-            },
-            "swe": {
-                "official": "Territoriet Wallis- och Futunaöarna",
-                "common": "Wallis- och Futunaöarna"
-            },
-            "tur": {
-                "official": "Wallis ve Futuna Adaları Bölgesi",
-                "common": "Wallis ve Futuna Adaları Bölgesi"
-            },
-            "urd": {
-                "official": "سر زمینِ والس و فتونہ جزائر",
-                "common": "والس و فتونہ"
-            },
-            "zho": {
-                "official": "瓦利斯和富图纳群岛",
-                "common": "瓦利斯和富图纳群岛"
-            }
-        },
-        "latlng": [
-            -13.3,
-            -176.2
-        ],
-        "landlocked": false,
-        "area": 142,
-        "demonyms": {
-            "eng": {
-                "f": "Wallis and Futuna Islander",
-                "m": "Wallis and Futuna Islander"
-            }
-        },
-        "flag": "🇼🇫",
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/CzVqK74QYtbHv65r5",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/3412448"
-        },
-        "population": 11750,
-        "car": {
-            "signs": [
-                "F"
-            ],
-            "side": "right"
-        },
-        "timezones": [
-            "UTC+12:00"
-        ],
-        "continents": [
-            "Oceania"
-        ],
-        "flags": {
-            "png": "https://flagcdn.com/w320/wf.png",
-            "svg": "https://flagcdn.com/wf.svg"
-        },
-        "coatOfArms": {},
-        "startOfWeek": "monday",
-        "capitalInfo": {
-            "latlng": [
-                -13.95,
-                -171.93
-            ]
-        },
-        "postalCode": {
-            "format": "#####",
-            "regex": "^(986\\d{2})$"
-        }
-    }
-]
+	{
+		name: {
+			common: 'Marshall Islands',
+			official: 'Republic of the Marshall Islands',
+			nativeName: {
+				eng: {
+					official: 'Republic of the Marshall Islands',
+					common: 'Marshall Islands',
+				},
+				mah: {
+					official: 'Republic of the Marshall Islands',
+					common: 'M̧ajeļ',
+				},
+			},
+		},
+		tld: [
+			'.mh',
+		],
+		cca2: 'MH',
+		ccn3: '584',
+		cca3: 'MHL',
+		cioc: 'MHL',
+		independent: true,
+		status: 'officially-assigned',
+		unMember: true,
+		currencies: {
+			USD: {
+				name: 'United States dollar',
+				symbol: '$',
+			},
+		},
+		idd: {
+			root: '+6',
+			suffixes: [
+				'92',
+			],
+		},
+		capital: [
+			'Majuro',
+		],
+		altSpellings: [
+			'MH',
+			'Republic of the Marshall Islands',
+			'Aolepān Aorōkin M̧ajeļ',
+		],
+		region: 'Oceania',
+		subregion: 'Micronesia',
+		languages: {
+			eng: 'English',
+			mah: 'Marshallese',
+		},
+		translations: {
+			ara: {
+				official: 'جمهورية جزر مارشال',
+				common: 'جزر مارشال',
+			},
+			bre: {
+				official: 'Republik Inizi Marshall',
+				common: 'Inizi Marshall',
+			},
+			ces: {
+				official: 'Republika Marshallovy ostrovy',
+				common: 'Marshallovy ostrovy',
+			},
+			cym: {
+				official: 'Republic of the Marshall Islands',
+				common: 'Marshall Islands',
+			},
+			deu: {
+				official: 'Republik Marshallinseln',
+				common: 'Marshallinseln',
+			},
+			est: {
+				official: 'Marshalli Saarte Vabariik',
+				common: 'Marshalli Saared',
+			},
+			fin: {
+				official: 'Marshallinsaarten tasavalta',
+				common: 'Marshallinsaaret',
+			},
+			fra: {
+				official: 'République des Îles Marshall',
+				common: 'Îles Marshall',
+			},
+			hrv: {
+				official: 'Republika Maršalovi Otoci',
+				common: 'Maršalovi Otoci',
+			},
+			hun: {
+				official: 'Marshall-szigetek',
+				common: 'Marshall-szigetek',
+			},
+			ita: {
+				official: 'Repubblica delle Isole Marshall',
+				common: 'Isole Marshall',
+			},
+			jpn: {
+				official: 'マーシャル諸島共和国',
+				common: 'マーシャル諸島',
+			},
+			kor: {
+				official: '마셜 제도 공화국',
+				common: '마셜 제도',
+			},
+			nld: {
+				official: 'Republiek van de Marshall-eilanden',
+				common: 'Marshalleilanden',
+			},
+			per: {
+				official: 'جمهوری جزایر مارشال',
+				common: 'جزایر مارشال',
+			},
+			pol: {
+				official: 'Republika Wysp Marshalla',
+				common: 'Wyspy Marshalla',
+			},
+			por: {
+				official: 'República das Ilhas Marshall',
+				common: 'Ilhas Marshall',
+			},
+			rus: {
+				official: 'Республика Маршалловы острова',
+				common: 'Маршалловы Острова',
+			},
+			slk: {
+				official: 'Republika Marshallových ostrovov',
+				common: 'Marshallove ostrovy',
+			},
+			spa: {
+				official: 'República de las Islas Marshall',
+				common: 'Islas Marshall',
+			},
+			srp: {
+				official: 'Република Маршалска Острва',
+				common: 'Маршалска Острва',
+			},
+			swe: {
+				official: 'Republiken Marshallöarna',
+				common: 'Marshallöarna',
+			},
+			tur: {
+				official: 'Marshall Adaları Cumhuriyeti',
+				common: 'Marshall Adaları',
+			},
+			urd: {
+				official: 'جمہوریہ جزائر مارشل',
+				common: 'جزائر مارشل',
+			},
+			zho: {
+				official: '马绍尔群岛共和国',
+				common: '马绍尔群岛',
+			},
+		},
+		latlng: [
+			9,
+			168,
+		],
+		landlocked: false,
+		area: 181,
+		demonyms: {
+			eng: {
+				f: 'Marshallese',
+				m: 'Marshallese',
+			},
+			fra: {
+				f: 'Marshallaise',
+				m: 'Marshallais',
+			},
+		},
+		flag: '🇲🇭',
+		maps: {
+			googleMaps: 'https://goo.gl/maps/A4xLi1XvcX88gi3W8',
+			openStreetMaps: 'https://www.openstreetmap.org/relation/571771',
+		},
+		population: 59194,
+		car: {
+			signs: [
+				'MH',
+			],
+			side: 'right',
+		},
+		timezones: [
+			'UTC+12:00',
+		],
+		continents: [
+			'Oceania',
+		],
+		flags: {
+			png: 'https://flagcdn.com/w320/mh.png',
+			svg: 'https://flagcdn.com/mh.svg',
+			alt: 'The flag of Marshall Islands has a blue field with two broadening adjacent diagonal bands of orange and white that extend from the lower hoist-side corner to the upper fly-side corner of the field. A large white star with twenty-four rays — four large rays at the cardinal points and twenty smaller rays — is situated in the upper hoist-side corner above the diagonal bands.',
+		},
+		coatOfArms: {
+			png: 'https://mainfacts.com/media/images/coats_of_arms/mh.png',
+			svg: 'https://mainfacts.com/media/images/coats_of_arms/mh.svg',
+		},
+		startOfWeek: 'monday',
+		capitalInfo: {
+			latlng: [
+				7.1,
+				171.38,
+			],
+		},
+	},
+	{
+		name: {
+			common: 'Bolivia',
+			official: 'Plurinational State of Bolivia',
+			nativeName: {
+				aym: {
+					official: 'Wuliwya Suyu',
+					common: 'Wuliwya',
+				},
+				grn: {
+					official: 'Tetã Volívia',
+					common: 'Volívia',
+				},
+				que: {
+					official: 'Buliwya Mamallaqta',
+					common: 'Buliwya',
+				},
+				spa: {
+					official: 'Estado Plurinacional de Bolivia',
+					common: 'Bolivia',
+				},
+			},
+		},
+		tld: [
+			'.bo',
+		],
+		cca2: 'BO',
+		ccn3: '068',
+		cca3: 'BOL',
+		cioc: 'BOL',
+		independent: true,
+		status: 'officially-assigned',
+		unMember: true,
+		currencies: {
+			BOB: {
+				name: 'Bolivian boliviano',
+				symbol: 'Bs.',
+			},
+		},
+		idd: {
+			root: '+5',
+			suffixes: [
+				'91',
+			],
+		},
+		capital: [
+			'Sucre',
+		],
+		altSpellings: [
+			'BO',
+			'Buliwya',
+			'Wuliwya',
+			'Bolivia, Plurinational State of',
+			'Plurinational State of Bolivia',
+			'Estado Plurinacional de Bolivia',
+			'Buliwya Mamallaqta',
+			'Wuliwya Suyu',
+			'Tetã Volívia',
+		],
+		region: 'Americas',
+		subregion: 'South America',
+		languages: {
+			aym: 'Aymara',
+			grn: 'Guaraní',
+			que: 'Quechua',
+			spa: 'Spanish',
+		},
+		translations: {
+			ara: {
+				official: 'دولة بوليفيا المتعددة القوميات',
+				common: 'بوليفيا',
+			},
+			bre: {
+				official: 'Stad Liesvroadel Bolivia',
+				common: 'Bolivia',
+			},
+			ces: {
+				official: 'Mnohonárodnostní stát Bolívie',
+				common: 'Bolívie',
+			},
+			cym: {
+				official: 'Gweriniaeth Bolifia',
+				common: 'Bolifia',
+			},
+			deu: {
+				official: 'Plurinationaler Staat Bolivien',
+				common: 'Bolivien',
+			},
+			est: {
+				official: 'Boliivia Paljurahvuseline Riik',
+				common: 'Boliivia',
+			},
+			fin: {
+				official: 'Bolivian monikansainen valtio',
+				common: 'Bolivia',
+			},
+			fra: {
+				official: 'État plurinational de Bolivie',
+				common: 'Bolivie',
+			},
+			hrv: {
+				official: 'Plurinational State of Bolivia',
+				common: 'Bolivija',
+			},
+			hun: {
+				official: 'Bolíviai Többnemzetiségű Állam',
+				common: 'Bolívia',
+			},
+			ita: {
+				official: 'Stato Plurinazionale della Bolivia',
+				common: 'Bolivia',
+			},
+			jpn: {
+				official: 'ボリビアの多民族国',
+				common: 'ボリビア多民族国',
+			},
+			kor: {
+				official: '볼리비아 다민족국',
+				common: '볼리비아',
+			},
+			nld: {
+				official: 'Plurinationale Staat van Bolivia',
+				common: 'Bolivia',
+			},
+			per: {
+				official: 'جمهوری بولیوی',
+				common: 'بولیوی',
+			},
+			pol: {
+				official: 'Wielonarodowe Państwo Boliwia',
+				common: 'Boliwia',
+			},
+			por: {
+				official: 'Estado Plurinacional da Bolívia',
+				common: 'Bolívia',
+			},
+			rus: {
+				official: 'Многонациональное Государство Боливия',
+				common: 'Боливия',
+			},
+			slk: {
+				official: 'Bolívijská republika',
+				common: 'Bolívia',
+			},
+			spa: {
+				official: 'Estado Plurinacional de Bolivia',
+				common: 'Bolivia',
+			},
+			srp: {
+				official: 'Вишенационална Држава Боливија',
+				common: 'Боливија',
+			},
+			swe: {
+				official: 'Mångnationella staten Bolivia',
+				common: 'Bolivia',
+			},
+			tur: {
+				official: 'Bolivya Çokuluslu Devleti',
+				common: 'Bolivya',
+			},
+			urd: {
+				official: 'جمہوریہ بولیویا',
+				common: 'بولیویا',
+			},
+			zho: {
+				official: '多民族玻利维亚国',
+				common: '玻利维亚',
+			},
+		},
+		latlng: [
+			-17,
+			-65,
+		],
+		landlocked: true,
+		borders: [
+			'ARG',
+			'BRA',
+			'CHL',
+			'PRY',
+			'PER',
+		],
+		area: 1098581,
+		demonyms: {
+			eng: {
+				f: 'Bolivian',
+				m: 'Bolivian',
+			},
+			fra: {
+				f: 'Bolivienne',
+				m: 'Bolivien',
+			},
+		},
+		flag: '🇧🇴',
+		maps: {
+			googleMaps: 'https://goo.gl/maps/9DfnyfbxNM2g5U9b9',
+			openStreetMaps: 'https://www.openstreetmap.org/relation/252645',
+		},
+		population: 11673029,
+		gini: {
+			2019: 41.6,
+		},
+		fifa: 'BOL',
+		car: {
+			signs: [
+				'BOL',
+			],
+			side: 'right',
+		},
+		timezones: [
+			'UTC-04:00',
+		],
+		continents: [
+			'South America',
+		],
+		flags: {
+			png: 'https://flagcdn.com/w320/bo.png',
+			svg: 'https://flagcdn.com/bo.svg',
+			alt: 'The flag of Bolivia is composed of three equal horizontal bands of red, yellow and green, with the national coat of arms centered in the yellow band.',
+		},
+		coatOfArms: {
+			png: 'https://mainfacts.com/media/images/coats_of_arms/bo.png',
+			svg: 'https://mainfacts.com/media/images/coats_of_arms/bo.svg',
+		},
+		startOfWeek: 'monday',
+		capitalInfo: {
+			latlng: [
+				-19.02,
+				-65.26,
+			],
+		},
+	},
+	{
+		name: {
+			common: 'Wallis and Futuna',
+			official: 'Territory of the Wallis and Futuna Islands',
+			nativeName: {
+				fra: {
+					official: 'Territoire des îles Wallis et Futuna',
+					common: 'Wallis et Futuna',
+				},
+			},
+		},
+		tld: [
+			'.wf',
+		],
+		cca2: 'WF',
+		ccn3: '876',
+		cca3: 'WLF',
+		independent: false,
+		status: 'officially-assigned',
+		unMember: false,
+		currencies: {
+			XPF: {
+				name: 'CFP franc',
+				symbol: '₣',
+			},
+		},
+		idd: {
+			root: '+6',
+			suffixes: [
+				'81',
+			],
+		},
+		capital: [
+			'Mata-Utu',
+		],
+		altSpellings: [
+			'WF',
+			'Territory of the Wallis and Futuna Islands',
+			'Territoire des îles Wallis et Futuna',
+		],
+		region: 'Oceania',
+		subregion: 'Polynesia',
+		languages: {
+			fra: 'French',
+		},
+		translations: {
+			ara: {
+				official: 'إقليم جزر واليس وفوتونا',
+				common: 'واليس وفوتونا',
+			},
+			bre: {
+				official: 'Tiriad Inizi Wallis ha Futuna',
+				common: 'Wallis ha Futuna',
+			},
+			ces: {
+				official: 'Teritorium ostrovů Wallis a Futuna',
+				common: 'Wallis a Futuna',
+			},
+			cym: {
+				official: 'Territory of the Wallis and Futuna Islands',
+				common: 'Wallis and Futuna',
+			},
+			deu: {
+				official: 'Gebiet der Wallis und Futuna',
+				common: 'Wallis und Futuna',
+			},
+			est: {
+				official: 'Wallise ja Futuna ala',
+				common: 'Wallis ja Futuna',
+			},
+			fin: {
+				official: 'Wallisin ja Futunan yhteisö',
+				common: 'Wallis ja Futuna',
+			},
+			fra: {
+				official: 'Territoire des îles Wallis et Futuna',
+				common: 'Wallis-et-Futuna',
+			},
+			hrv: {
+				official: 'Teritoriju Wallis i Futuna',
+				common: 'Wallis i Fortuna',
+			},
+			hun: {
+				official: 'Wallis és Futuna',
+				common: 'Wallis és Futuna',
+			},
+			ita: {
+				official: 'Territorio delle Isole Wallis e Futuna',
+				common: 'Wallis e Futuna',
+			},
+			jpn: {
+				official: 'ウォリス·フツナ諸島の領土',
+				common: 'ウォリス・フツナ',
+			},
+			kor: {
+				official: '왈리스 퓌튀나',
+				common: '왈리스 퓌튀나',
+			},
+			nld: {
+				official: 'Grondgebied van de Wallis en Futuna',
+				common: 'Wallis en Futuna',
+			},
+			per: {
+				official: 'جزایر والیس و فوتونا',
+				common: 'والیس و فوتونا',
+			},
+			pol: {
+				official: 'Terytorium Wysp Wallis i Futuna',
+				common: 'Wallis i Futuna',
+			},
+			por: {
+				official: 'Território das Ilhas Wallis e Futuna',
+				common: 'Wallis e Futuna',
+			},
+			rus: {
+				official: 'Территория Уоллис и Футуна острова',
+				common: 'Уоллис и Футуна',
+			},
+			slk: {
+				official: 'Teritórium ostrovov Wallis a Futuna',
+				common: 'Wallis a Futuna',
+			},
+			spa: {
+				official: 'Territorio de las Islas Wallis y Futuna',
+				common: 'Wallis y Futuna',
+			},
+			srp: {
+				official: 'Територија државе Валис и Футуна',
+				common: 'Валис и Футуна',
+			},
+			swe: {
+				official: 'Territoriet Wallis- och Futunaöarna',
+				common: 'Wallis- och Futunaöarna',
+			},
+			tur: {
+				official: 'Wallis ve Futuna Adaları Bölgesi',
+				common: 'Wallis ve Futuna Adaları Bölgesi',
+			},
+			urd: {
+				official: 'سر زمینِ والس و فتونہ جزائر',
+				common: 'والس و فتونہ',
+			},
+			zho: {
+				official: '瓦利斯和富图纳群岛',
+				common: '瓦利斯和富图纳群岛',
+			},
+		},
+		latlng: [
+			-13.3,
+			-176.2,
+		],
+		landlocked: false,
+		area: 142,
+		demonyms: {
+			eng: {
+				f: 'Wallis and Futuna Islander',
+				m: 'Wallis and Futuna Islander',
+			},
+		},
+		flag: '🇼🇫',
+		maps: {
+			googleMaps: 'https://goo.gl/maps/CzVqK74QYtbHv65r5',
+			openStreetMaps: 'https://www.openstreetmap.org/relation/3412448',
+		},
+		population: 11750,
+		car: {
+			signs: [
+				'F',
+			],
+			side: 'right',
+		},
+		timezones: [
+			'UTC+12:00',
+		],
+		continents: [
+			'Oceania',
+		],
+		flags: {
+			png: 'https://flagcdn.com/w320/wf.png',
+			svg: 'https://flagcdn.com/wf.svg',
+		},
+		coatOfArms: {},
+		startOfWeek: 'monday',
+		capitalInfo: {
+			latlng: [
+				-13.95,
+				-171.93,
+			],
+		},
+		postalCode: {
+			format: '#####',
+			regex: '^(986\\d{2})$',
+		},
+	},
+];
