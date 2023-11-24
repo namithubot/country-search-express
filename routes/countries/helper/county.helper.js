@@ -29,12 +29,9 @@ module.exports = {
 				alternativeSpellings: data.altSpellings,
 				region: data.region,
 				subRegion: data.subregion,
-				languages: {
-					name: Object.values(data.languages || {}),
-					code: Object.keys(data.languages || {}),
-				},
+				languages: Object.keys(data.languages)?.map(code => ({ name: data.languages[code], code })),
 				isLandlocked: data.landlocked,
-				neighbours: data.borders,
+				neighbours: data.borders ?? [],
 				areaInkm: data.area,
 				mapLink: data.maps.openStreetMaps,
 				population: data.population,
@@ -64,7 +61,7 @@ function getTimezonInMinutes(timezone) {
 	const [timezoneHour, timezoneMinutes] = timezone
 		.replace('UTC', '')
 		.split(':');
-	return (timezoneHour * CONSTANTS.MINUTES_IN_HOUR) + timezoneMinutes;
+	return (parseInt(timezoneHour) * CONSTANTS.MINUTES_IN_HOUR) + parseInt(timezoneMinutes);
 }
 
 /**
